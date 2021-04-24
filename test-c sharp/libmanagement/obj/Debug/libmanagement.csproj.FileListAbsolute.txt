@@ -1,0 +1,16 @@
+D:\test-c sharp\libmanagement\bin\Debug\libmanagement.exe.config
+D:\test-c sharp\libmanagement\bin\Debug\libmanagement.exe
+D:\test-c sharp\libmanagement\bin\Debug\libmanagement.pdb
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.csprojAssemblyReference.cache
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.Login.resources
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.Properties.Resources.resources
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.csproj.GenerateResource.cache
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.csproj.CoreCompileInputs.cache
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.exe
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.pdb
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.mdi_user.resources
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.add_books.resources
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.view_books.resources
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.add_std_info.resources
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.view_std_info.resources
+D:\test-c sharp\libmanagement\obj\Debug\libmanagement.issue_books.resources
